@@ -1,0 +1,36 @@
+<html>
+  <head>
+<!- LocalBusiness Schema: for reference on attributes, please visit https://schema.org/LocalBusiness ->
+
+<script type="application/ld+json">
+        {"@context":"http://schema.org",
+        "@type":"LocalBusiness",
+        "@id" : "https://www.wikidata.org/wiki/Q1323528",
+		"additionalType" : [ "http://www.productontology.org/id/Digital_marketing" , "http://www.productontology.org/id/Pay-per-click", "http://www.productontology.org/id/Google_Ads", "http://www.productontology.org/id/Web_design", "http://www.productontology.org/id/Web_development", "http://www.productontology.org/id/Social_media_marketing", "http://www.productontology.org/id/Search_engine_marketing", "http://www.productontology.org/id/Online_presence_management", "http://www.productontology.org/id/Link_building", "http://www.productontology.org/id/Category:Digital_marketing_companies", "http://www.productontology.org/id/ategory:Search_engine_optimization_companies" ],
+        "address":{"@type":"PostalAddress",
+        "addressLocality":"Fortitude Valley",
+        "addressRegion":"QLD",
+        "postalCode":"4006",
+        "streetAddress":"2 Warner St"},
+        "Geo":{"@type":"GeoCoordinates",
+        "latitude":"-27.457709018955526",
+        "longitude":"153.03558658747917"},
+        "name":"Anchor Digital",
+        "openingHoursSpecification" : {"@type" : "OpeningHoursSpecification",
+        "dayOfWeek" : [ "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" ],
+        "opens" : "08:00",
+        "closes" : "16:30"},
+        "telephone" : "07 3036 0994",
+		"aggregateRating":{"@type":"AggregateRating","itemReviewed":{"@type":"Organization","image":"https://media-exp1.licdn.com/dms/image/C560BAQG_V-9cKoQ70Q/company-logo_200_200/0/1557268475031?e=2159024400&v=beta&t=D6oZ2CDcG7LJDRDay_MHM6rEF5bI4E7YOUt-orcMjQY","name":"Anchor Digital"},"ratingValue":5.0,"reviewCount":21}}
+        "areaServed":"Australia",
+        "url":"https://www.anchordigital.com.au/",
+        "image":"https://media-exp1.licdn.com/dms/image/C560BAQG_V-9cKoQ70Q/company-logo_200_200/0/1557268475031?e=2159024400&v=beta&t=D6oZ2CDcG7LJDRDay_MHM6rEF5bI4E7YOUt-orcMjQY",
+        "sameAs":["https://www.instagram.com/anchor.digital/?hl=en",
+        "https://www.facebook.com/anchordigitalgroup",
+        "https://au.linkedin.com/company/anchor-digital", 
+        "https://twitter.com/AnchorDigital3"]}
+    </script>
+    </head>
+<body>
+</body>
+</html>
